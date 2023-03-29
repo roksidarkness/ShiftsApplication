@@ -10,9 +10,10 @@ import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import com.shiftkey.codingchallenge.presentation.ui.screens.ApplicationScreen
 import com.shiftkey.codingchallenge.presentation.ui.theme.AppTheme
 import com.shiftkey.codingchallenge.presentation.ui.theme.ShiftsApplicationTheme
+import dagger.android.support.DaggerAppCompatActivity
 
 
-class MainActivity : ComponentActivity() {
+class MainActivity : DaggerAppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
