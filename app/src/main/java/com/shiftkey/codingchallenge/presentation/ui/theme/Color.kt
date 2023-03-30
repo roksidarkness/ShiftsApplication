@@ -17,5 +17,5 @@ val lightPalette = Colors(
     headerTextColor = Color(0xFF505B5E),
     subtitleTextColor = Color(0xFF98ACB3),
     primaryTextColor = Color(0xFF345159),
-    backgroundColor = Color(0XFFC0D7FC)
+    backgroundColor = Color(0XFFDFFDF0)
 )

@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Coding Challenge</string>
+
+    <string name="label_start_date">Start date: </string>
+    <string name="label_end_date">End date: </string>
+    <string name="label_premium_rate">Premium rate: </string>
+    <string name="label_covid">Covid: </string>
+    <string name="label_shift_kind">Shift kind: </string>
+    <string name="label_within_distance">Within distance: </string>
+    <string name="label_facility_type">Facility type: </string>
+    <string name="label_skill">Skill: </string>
+    <string name="label_specialty">Specialty: </string>
+
 </resources>
