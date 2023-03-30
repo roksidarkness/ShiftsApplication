@@ -1,11 +1,11 @@
 
-Tech stack:
-Hilt
-Coroutines
-Jetpack Compose
-Retrofit
-Navigation
-Tests
+### Tech stack:
+- Hilt
+- Jetpack compose
+- Coroutines
+- Navigation 
+- Tests
 
-Architecture:
-Model-View-ViewModel
+### Architecture:
+- Model-View-ViewModel
+
